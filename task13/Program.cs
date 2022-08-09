@@ -1,6 +1,4 @@
 ﻿
-/// Пробует взять третью цифру из входного числа в виде строки.
-
 bool TryParseThirdDigit(string num, out int result)
 {
     result = default;

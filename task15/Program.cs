@@ -1,6 +1,4 @@
-﻿/// <summary>
-/// Возвращает True если номер дня недели является выходным.
-/// </summary>
+﻿
 bool IsWeekend(short numDayOfWeek) => 
             numDayOfWeek == 6 || // суббота
             numDayOfWeek == 7; // воскресенье

@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+int main()
+{
+    int n;
+    cout << "Enter n:";
+    cin >> n;
+    cout << (n%7==0?, n%23==0?"Yes":"No");
+    return 0;
+}
