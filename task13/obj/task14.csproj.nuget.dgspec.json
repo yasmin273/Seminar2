@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bender\\Desktop\\seminraivan\\Seminar2\\task14\\task14.csproj": {}
+    "C:\\Users\\Bender\\Desktop\\seminraivan\\Seminar2\\task13\\task14.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bender\\Desktop\\seminraivan\\Seminar2\\task14\\task14.csproj": {
+    "C:\\Users\\Bender\\Desktop\\seminraivan\\Seminar2\\task13\\task14.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bender\\Desktop\\seminraivan\\Seminar2\\task14\\task14.csproj",
+        "projectUniqueName": "C:\\Users\\Bender\\Desktop\\seminraivan\\Seminar2\\task13\\task14.csproj",
         "projectName": "task14",
-        "projectPath": "C:\\Users\\Bender\\Desktop\\seminraivan\\Seminar2\\task14\\task14.csproj",
+        "projectPath": "C:\\Users\\Bender\\Desktop\\seminraivan\\Seminar2\\task13\\task14.csproj",
         "packagesPath": "C:\\Users\\Bender\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bender\\Desktop\\seminraivan\\Seminar2\\task14\\obj\\",
+        "outputPath": "C:\\Users\\Bender\\Desktop\\seminraivan\\Seminar2\\task13\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bender\\AppData\\Roaming\\NuGet\\NuGet.Config"
